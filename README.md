@@ -10,18 +10,14 @@ Step 2: Copy the path and paste on the browser or you can click to live run serv
 
 Step 3: In order to use, click the refresh button again and again.
 
-```
-![Dice_Game](https://user-images.githubusercontent.com/110940123/186883534-c7121876-1a5e-4d00-a1ea-a0a2da66d235.png)
-
-```
+![Dice_Game](https://user-images.githubusercontent.com/110940123/186884897-777845fa-5836-4e20-b115-75d70d251cc5.png)
 
 Step 4: HAVE FUN :D
 
 
 # The test of The Dice Game
 
-```
-![dice_game](https://user-images.githubusercontent.com/110940123/186884253-e75d0b09-afb4-4057-8801-96a3ea59f405.gif)
+![dice_game](https://user-images.githubusercontent.com/110940123/186885016-a1191709-cdc9-41fb-a248-0c416161bfa3.gif)
 
-```
+
 
